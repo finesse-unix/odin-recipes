@@ -1,0 +1,10 @@
+* {
+  background-color: bisque;
+}
+
+.header {
+  background-color: aqua;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+}
